@@ -169,3 +169,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# raw data
+
+raw_files/
+
+# processed data
+
+clean_data/
+
+
+# working
+
+working/
+
